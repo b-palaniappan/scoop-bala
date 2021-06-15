@@ -1,0 +1,18 @@
+{
+  "version": "1.4.3",
+  "description": "The free lightweight GUI for MongoDB enthusiasts",
+  "homepage": "https://robomongo.org",
+  "license": "GPL-3.0-only",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Studio3T/robomongo/releases/download/v1.4.3/robo3t-1.4.3-windows-x86_64-48f7dfde.zip",
+      "hash": "15C0D1D5751D68023FCCA0F9E0DB14DC69EA4607C2A4C9645DF10B380C1653DD"
+    }
+  },
+  "shortcuts": [
+    [
+      "robo3t.exe",
+      "Robo 3T"
+    ]
+  ]
+}
