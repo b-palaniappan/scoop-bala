@@ -9,6 +9,8 @@
       "hash": "15C0D1D5751D68023FCCA0F9E0DB14DC69EA4607C2A4C9645DF10B380C1653DD"
     }
   },
+  "extract_dir": "robo3t",
+  "bin": "robo3t.exe",
   "shortcuts": [
     [
       "robo3t.exe",
