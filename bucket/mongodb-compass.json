@@ -16,7 +16,7 @@
     "shortcuts": [
         [
             "MongoDBCompass.exe",
-            "MongoDBCompass"
+            "MongoDB Compass"
         ]
     ],
     "checkver": {
