@@ -1,5 +1,5 @@
 {
-    "version": "9.4.1",
+    "version": "9.7.1",
     "description": "Complete API development environment.",
     "homepage": "https://www.getpostman.com/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dl.pstmn.io/download/9.4.1/Postman-win64-9.4.1-full.nupkg#/dl.7z",
-            "hash": "sha1:98ef63779ca57cd925f394af14888e40f794754e"
+            "url": "https://dl.pstmn.io/download/9.7.1/Postman-win64-9.7.1-full.nupkg#/dl.7z",
+            "hash": "95697C711A5BC1486F7D356D50E26F85D1E328B5E1D594600914C7C568D95D3D"
         },
         "32bit": {
-            "url": "https://dl.pstmn.io/download/9.4.1/Postman-win32-9.4.1-full.nupkg#/dl.7z",
+            "url": "https://dl.pstmn.io/download/9.7.1/Postman-win32-9.7.1-full.nupkg#/dl.7z",
             "hash": "sha1:b7f5f29d3d8e41e1ff29c785518ff1b9d5fde233"
         }
     },
