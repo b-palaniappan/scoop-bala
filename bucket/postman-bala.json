@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://dl.pstmn.io/download/9.8.1/Postman-win64-9.8.1-full.nupkg#/dl.7z",
-            "hash": "623e80e15a3425d24a0051bacf342237284060341458df08a98f619ed0555e21"
+            "hash": "66fdc78705165e7985bc912638563c8ef0e89e7e785a3e0450a6e9d9aeaa81eb"
         },
         "32bit": {
             "url": "https://dl.pstmn.io/download/9.8.1/Postman-win32-9.8.1-full.nupkg#/dl.7z",
